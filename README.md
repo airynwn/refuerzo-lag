@@ -66,12 +66,17 @@
 
 ![act15](https://github.com/axrynz/refuerzo-lag/blob/main/imagenes/19.png)
 
-Nombre | Github
+| Nombre | Github |     |
+| ------ | ------ | --- |
+|        |        |     |
+|        |        |     |
 
------------ | ----------
+| Nombre | Github |
 
-Eduardo Martínez | https://github.com/edumarrom
+| ----------- | ---------- |
 
-Jorge González | https://github.com/JorgeGlezFun
+| Eduardo Martínez | https://github.com/edumarrom |
 
-Pablo Leal | https://github.com/Pabloleabr/refuerzos-PLO
+| Jorge González | https://github.com/JorgeGlezFun |
+
+| Pablo Leal | https://github.com/Pabloleabr/refuerzos-PLO |
